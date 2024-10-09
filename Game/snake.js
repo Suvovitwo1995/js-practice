@@ -1,7 +1,6 @@
 function snakeGame(){
 
     // 1:snake 2:water 3:gun
-    // a new comment lines
     let comShow;
     let count=0;
     let com=0;
