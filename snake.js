@@ -1,4 +1,4 @@
-function startGame(){
+function snakeGame(){
 
     // 1:snake 2:water 3:gun
     
