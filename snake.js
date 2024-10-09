@@ -18,7 +18,7 @@ function snakeGame(){
         else if((playerChoice==1 && computerChoice==2) || (playerChoice==2 && computerChoice==3) || (playerChoice==3 && computerChoice==1)){
             switch(computerChoice){
                 case 1:
-                    comShow="snake";
+                    comShow="it's a snake";
                     break;
                 case 2:
                     comShow="water";
